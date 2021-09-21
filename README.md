@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ngocthuc37/ngocthuc37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About meeeeeeeeeee 👀👀👀:
 
 . 🔭 I’m currently final year student at HCMUS, VNU
