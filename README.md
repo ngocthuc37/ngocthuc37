@@ -2,7 +2,7 @@
 
 About meeeeeeeeeee 👀👀👀:
 
-. 🔭 I’m currently final year student at HCMUS, VNU
+. 🔭 I’m currently final year student at HCMUS, VNU '/n'
 . 💼 My major is Software Engineering
 . 📱 Main: Mobile develop 
 . 💻 Programming language: C/C+, React Native, Flutter, Swift, ... 
