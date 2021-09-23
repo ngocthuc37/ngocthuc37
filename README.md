@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<img align="right"  src="Thuc.png" width="350"/>
+<img align="right"  src="Thuc.png" width="450"/>
  
 ### About meeeeeeeeeee 👀👀👀
 
