@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<img align="right"  src="Thuc.png" width="250"/>
+<img align="right"  src="Thuc.png" width="250" height = "300"/>
 About meeeeeeeeeee 👀👀👀:                                                                                                                       
 
 . 🔭 I’m currently final year student at HCMUS, VNU                                                                                                                       
