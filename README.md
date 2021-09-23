@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 
+<img align="right"  src="Thuc.png" width="350"/>
 About meeeeeeeeeee 👀👀👀:                                                                                                                       
 
 . 🔭 I’m currently final year student at HCMUS, VNU                                                                                                                       
