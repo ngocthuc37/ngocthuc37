@@ -1,7 +1,7 @@
 ### Hi there 👋 
 <img align="right"  src="Thuc.png" width="450"/>
  
-### About meeeeeeeeeee 👀👀👀
+### About meeeeeeeeee 👀👀👀
 
 . 🔭 I’m currently final year student at HCMUS, VNU                                                                                                                       
 . 💼 My major is Software Engineering                                                                                                                      
