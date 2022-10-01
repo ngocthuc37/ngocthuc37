@@ -4,7 +4,7 @@
 ### About meeeeeeeeee 👀👀👀
 
 . 🔭 I’m currently final year student at HCMUS, VNU                                                                                                                       
-. 💼 My major is Software Engineering                                                                                                                      
+. 💼 My major is Software Engineer                                                                                                                     
 . 📱 Main: Cross Platform                                                                                                                     
 . 💻 Programming language: C/C+, ReactJS, Dart, Swift,...                                                                                                                 
 . ⚽ My hobby: Soccer, Technical, Photograhphy, Video game,...                                                                                                                     
