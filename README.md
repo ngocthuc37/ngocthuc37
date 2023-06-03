@@ -5,8 +5,8 @@
 
 . 🔭 I’m currently final year student at HCMUS, VNU                                                                                                                       
 . 💼 My major is Software Engineer                                                                                                                     
-. 📱 Main: Cross Platform - Flutter                                                                                                                     
-. 💻 Programming language: C/C+, ReactJS, Dart, Swift,...                                                                                                                 
+. 📱 Main: Cross Platform - Flutter, ReactJS,                                                                                                                     
+. 💻 Programming language: Typescript, C/C+, ReactJS, Dart, Swift,...                                                                                                                 
 . ⚽ My hobby: Soccer, Technical, Photograhphy, Video game,...                                                                                                                     
 . ⚡ Fun fact: I'm handsome hehehe 😎😎😎                                                                                                                       
 
